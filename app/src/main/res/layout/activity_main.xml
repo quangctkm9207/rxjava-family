@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <Button
+      android:id="@+id/java"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="RxJava"
+      android:onClick="onClick"
+      />
+  <Button
+      android:id="@+id/android"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="RxAndroid"
+      android:onClick="onClick"
+      />
+  <Button
+      android:id="@+id/binding"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="RxBinding"
+      android:onClick="onClick"
+      />
+  <Button
+      android:id="@+id/lifecycle"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="RxLifecycle"
+      android:onClick="onClick"
+      />
+  <Button
+      android:id="@+id/relay"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="RxRelay"
+      android:onClick="onClick"
+      />
+</LinearLayout>
