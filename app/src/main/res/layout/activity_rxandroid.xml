@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context="com.quangnguyen.rxjavafamily.android.RxAndroidActivity"
     >
-
-</android.support.constraint.ConstraintLayout>
+  <TextView
+      android:id="@+id/text_log"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      />
+  <Button
+      android:id="@+id/run_background"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/run_background"
+      android:onClick="onClick"
+      />
+</LinearLayout>
