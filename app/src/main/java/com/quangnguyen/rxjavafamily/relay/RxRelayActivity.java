@@ -1,9 +1,8 @@
-package com.quangnguyen.rxjavaexample.relay;
+package com.quangnguyen.rxjavafamily.relay;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
-import com.quangnguyen.rxjavaexample.R;
+import com.quangnguyen.rxjavafamily.R;
 
 public class RxRelayActivity extends AppCompatActivity {
 

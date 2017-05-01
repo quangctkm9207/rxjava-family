@@ -1,4 +1,4 @@
-package com.quangnguyen.rxjavaexample.java.operations;
+package com.quangnguyen.rxjavafamily.java.operations;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import com.quangnguyen.rxjavaexample.R;
+import com.quangnguyen.rxjavafamily.R;
 import io.reactivex.Observable;
 import io.reactivex.ObservableEmitter;
 import io.reactivex.ObservableOnSubscribe;

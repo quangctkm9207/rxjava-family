@@ -1,18 +1,13 @@
-package com.quangnguyen.rxjavaexample.java;
+package com.quangnguyen.rxjavafamily.java;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import com.quangnguyen.rxjavaexample.R;
-import com.quangnguyen.rxjavaexample.java.operations.CreateFragment;
-import com.quangnguyen.rxjavaexample.java.operations.FilterFragment;
-import com.quangnguyen.rxjavaexample.java.operations.FlatMapFragment;
-import com.quangnguyen.rxjavaexample.java.operations.MapFragment;
-import com.quangnguyen.rxjavaexample.java.operations.ReduceFragment;
-import com.quangnguyen.rxjavaexample.java.operations.ZipFragment;
-import com.quangnguyen.rxjavaexample.util.ActivityUtils;
+import com.quangnguyen.rxjavafamily.R;
+import com.quangnguyen.rxjavafamily.java.operations.*;
+import com.quangnguyen.rxjavafamily.util.ActivityUtils;
 
 /**
  * @author Quang Nguyen.

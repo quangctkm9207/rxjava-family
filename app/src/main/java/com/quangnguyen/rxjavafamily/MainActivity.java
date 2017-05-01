@@ -1,15 +1,15 @@
-package com.quangnguyen.rxjavaexample;
+package com.quangnguyen.rxjavafamily;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import com.quangnguyen.rxjavaexample.android.RxAndroidActivity;
-import com.quangnguyen.rxjavaexample.binding.RxBindingActivity;
-import com.quangnguyen.rxjavaexample.java.RxJavaActivity;
-import com.quangnguyen.rxjavaexample.lifecycle.RxLifecycleActivity;
-import com.quangnguyen.rxjavaexample.relay.RxRelayActivity;
+import com.quangnguyen.rxjavafamily.android.RxAndroidActivity;
+import com.quangnguyen.rxjavafamily.binding.RxBindingActivity;
+import com.quangnguyen.rxjavafamily.java.RxJavaActivity;
+import com.quangnguyen.rxjavafamily.lifecycle.RxLifecycleActivity;
+import com.quangnguyen.rxjavafamily.relay.RxRelayActivity;
 
 /**
  * @author Quang Nguyen
