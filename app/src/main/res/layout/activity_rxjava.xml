@@ -25,42 +25,42 @@
           android:id="@+id/create"
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
-          android:text="create"
+          android:text="@string/create"
           android:onClick="onClick"
           />
       <Button
           android:id="@+id/map"
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
-          android:text="map"
+          android:text="@string/map"
           android:onClick="onClick"
           />
       <Button
           android:id="@+id/flatmap"
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
-          android:text="flatmap"
+          android:text="@string/flat_map"
           android:onClick="onClick"
           />
       <Button
           android:id="@+id/filter"
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
-          android:text="filter"
+          android:text="@string/filter"
           android:onClick="onClick"
           />
       <Button
           android:id="@+id/zip"
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
-          android:text="zip"
+          android:text="@string/zip"
           android:onClick="onClick"
           />
       <Button
           android:id="@+id/reduce"
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
-          android:text="reduce"
+          android:text="@string/reduce"
           android:onClick="onClick"
           />
     </LinearLayout>
