@@ -9,5 +9,10 @@
   <string name="zip">Zip</string>
   <string name="reduce">Reduce</string>
 
-  <string name="run_background">Run Background</string>
+  <string name="run_background">Run background</string>
+
+  <string name="email">Email</string>
+
+  <string name="tap_me">Tap me</string>
+  <string name="tap_count">TAP COUNT</string>
 </resources>
