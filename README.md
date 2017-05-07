@@ -1,11 +1,11 @@
 # RxJava Family - A collection of step-by-step examples to bring ReactiveX into Android development. 
 
 ## Content  
-1. [RxJava](#1.RxJava)
-2. [RxAndroid](#2.RxAndroid)
-3. [RxBinding](#3.RxBinding)
-4. [RxLifecycle](#4.RxLifecycle)
-5. [RxRelay](#5.RxReplay)  
+1. [RxJava](#1RxJava)
+2. [RxAndroid](#2RxAndroid)
+3. [RxBinding](#3RxBinding)
+4. [RxLifecycle](#4RxLifecycle)
+5. [RxRelay](#5RxReplay)  
 
 ## 1.RxJava
 Demonstrates some basic operators in RxJava.  
